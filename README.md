@@ -14,8 +14,7 @@ This Employee Management System is a Laravel-based web application designed to s
 ## Installation
 
 1. **Clone the Repository**:
-   git clone https://github.com/yourusername/employee-management-system.git
-
+   git clone https://github.com/MonihaPS/Employee_Management_System_Laravel
 
 2. **Install Dependencies**:
 composer install
